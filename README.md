@@ -1,5 +1,5 @@
 # light-map
-A light-map tool is used to hack any webseite affected by sql and xss exploit and it have a sq;map tool,you can download and install it
+A light-map tool is used to hack any webseite affected by sql and xss exploit and it have a sqlmap tool,you can download and install it
 
 install requiremets to run the tool
 
