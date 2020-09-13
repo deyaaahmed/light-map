@@ -1,6 +1,10 @@
 # light-map
 A light-map tool is used to hack any webseite affected by sql and xss exploit and it have a sqlmap tool,you can download and install it
 
+This Picture Shows How Tool
+![lightmap3](https://user-images.githubusercontent.com/66400295/93009630-948cd580-f583-11ea-92f7-7785055469db.png)
+
+
 install requiremets to run the tool
 
 1- sudo apt-get install python3 
