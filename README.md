@@ -6,6 +6,7 @@ install requiremets to run the tool
 1- sudo apt-get install python3 
 
 Download & Install & Run
+
 1- git clone https://github.com/7azabet/light-map.git
 
 2- cd light-map
